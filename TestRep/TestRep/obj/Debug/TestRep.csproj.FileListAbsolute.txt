@@ -1,0 +1,7 @@
+G:\git\TestRep\TestRep\TestRep\bin\Debug\TestRep.exe.config
+G:\git\TestRep\TestRep\TestRep\bin\Debug\TestRep.exe
+G:\git\TestRep\TestRep\TestRep\bin\Debug\TestRep.pdb
+G:\git\TestRep\TestRep\TestRep\obj\Debug\TestRep.csprojResolveAssemblyReference.cache
+G:\git\TestRep\TestRep\TestRep\obj\Debug\TestRep.csproj.CoreCompileInputs.cache
+G:\git\TestRep\TestRep\TestRep\obj\Debug\TestRep.exe
+G:\git\TestRep\TestRep\TestRep\obj\Debug\TestRep.pdb
