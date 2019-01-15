@@ -1,0 +1,62 @@
+﻿2019-01-15T10:57:48.2029676+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-01-15T10:57:48.2219566+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-01-15T10:57:48.2219566+03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\User\source\repos\DeliveryClubSpecFlow\DeliveryClubSpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-01-15T10:57:48.6217156+03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-01-15T10:57:48.6227156+03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\User\source\repos\DeliveryClubSpecFlow\DeliveryClubSpecFlow\bin\Debug\DeliveryClubSpecFlow.dll
+2019-01-15T10:57:48.6227156+03:00;VSTestExecutionThread;Info;Profile: DeliveryClubSpecFlow
+2019-01-15T10:57:55.7271246+03:00;Thread#15;Info;starting test run
+2019-01-15T10:57:55.7381185+03:00;Thread#15;Info;Discovering target: Default
+2019-01-15T10:57:55.7391173+03:00;Thread#15;Info;Discovering tests from assembly: C:\Users\User\source\repos\DeliveryClubSpecFlow\DeliveryClubSpecFlow\bin\Debug\DeliveryClubSpecFlow.dll
+Appdomain Disposed
+Test Suite Dump
+#0: DeliveryClubSpecFlow/DeliveryClubSpecFlow - 
+#1: Default - 
+#2: DeliveryClubSpecFlow - 
+#3: EntitySearch - 
+#4: Empty Search - TestAssembly:DeliveryClubSpecFlow/Feature:EntitySearch/Scenario:Empty+Search
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for DeliveryClubSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given Opened webpage https://www.delivery-club.ru/
+Thread#0:T:done: EntitySearch.openWebPage("www.delivery-club...") (14,6s)
+Thread#0:B:When I click to entity menu ALL
+Thread#0:T:done: EntitySearch.clickToEntityMenu("ALL") (18,0s)
+Thread#0:B:Then search results are
+Thread#0:B:  --- table step argument ---
+Thread#0:B:  | Key                   | Value |
+Thread#0:B:  | Макдоналдс            | 1 ₽   |
+Thread#0:B:  | Обед буфет Метрополис | 300 ₽ |
+Thread#0:B:  | Три правила           | 300 ₽ |
+Thread#0:T:error: Сбой Assert.AreEqual. Ожидается: <Обед буфет Метрополис>. Фактически: <Макдоналдс>. 
+Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #4/0 is finished on thread #0 as Failed within 34,0558602 seconds
+Thread#0: Test #4/1 is started on thread #0
+Thread#0:B:Given Opened webpage https://www.delivery-club.ru/
+Thread#0:T:done: EntitySearch.openWebPage("www.delivery-club...") (21,0s)
+Thread#0:B:When I click to entity menu ALL
+Thread#0:T:done: EntitySearch.clickToEntityMenu("ALL") (17,1s)
+Thread#0:B:Then search results are
+Thread#0:B:  --- table step argument ---
+Thread#0:B:  | Key                   | Value |
+Thread#0:B:  | Макдоналдс            | 1 ₽   |
+Thread#0:B:  | Обед буфет Метрополис | 300 ₽ |
+Thre

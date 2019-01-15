@@ -1,0 +1,36 @@
+﻿2019-01-15T10:31:46.5204890+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-01-15T10:31:46.5244884+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-01-15T10:31:46.5244884+03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\User\source\repos\DeliveryClubSpecFlow\DeliveryClubSpecFlow\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-01-15T10:31:48.4718352+03:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-01-15T10:31:48.4718352+03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\User\source\repos\DeliveryClubSpecFlow\DeliveryClubSpecFlow\bin\Debug\DeliveryClubSpecFlow.dll
+2019-01-15T10:31:48.4718352+03:00;VSTestExecutionThread;Info;Profile: DeliveryClubSpecFlow
+2019-01-15T10:31:55.7245653+03:00;Thread#15;Info;starting test run
+2019-01-15T10:31:55.7885249+03:00;Thread#15;Info;Discovering target: Default
+2019-01-15T10:31:55.7895241+03:00;Thread#15;Info;Discovering tests from assembly: C:\Users\User\source\repos\DeliveryClubSpecFlow\DeliveryClubSpecFlow\bin\Debug\DeliveryClubSpecFlow.dll
+Appdomain Disposed
+Test Suite Dump
+#0: DeliveryClubSpecFlow/DeliveryClubSpecFlow - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-01-15T10:31:56.0023931+03:00;Thread#15;Info;test run finished
+2019-01-15T10:31:56.0033924+03:00;Thread#15;Info;publishing test results
+2019-01-15T10:31:56.0813440+03:00;Thread#15;Info;test results published
+2019-01-15T10:31:56.0843416+03:00;Thread#15;Info;generating reports
+2019-01-15T10:31:56.0973349+03:00;Thread#15;Info;creating 1 report(s)
+2019-01-15T10:31:56.0973349+03:00;Thread#15;Info;generate Report ReportTemplate.cshtml
+2019-01-15T10:31:59.1284554+03:00;Thread#15;Info;reports generated
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2019-01-15T10:31:59.1314535+03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-01-15T10:31:59.1324544+03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\User\source\repos\DeliveryClubSpecFlow\TestResults\DeliveryClubSpecFlow_DeliveryClubSpecFlow_2019-01-15T103148.html'
+2019-01-15T10:31:59.1646333+03:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\User\source\repos\DeliveryClubSpecFlow\TestResults\DeliveryClubSpecFlow_DeliveryClubSpecFlow_2019-01-15T103148.log
